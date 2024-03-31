@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.py
+BookLover/__init__.py
+BookLover/booklover.py
+BookLoverPackage.egg-info/PKG-INFO
+BookLoverPackage.egg-info/SOURCES.txt
+BookLoverPackage.egg-info/dependency_links.txt
+BookLoverPackage.egg-info/requires.txt
+BookLoverPackage.egg-info/top_level.txt

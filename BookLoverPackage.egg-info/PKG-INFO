@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: BookLoverPackage
+Version: 1.0.0
+Summary: A simple package which allows us to create a Book Lover instance with limited functionality.
+Home-page: https://github.com/BardiaNikpour/BookLover__B_N
+Author: BardiaNikpour
+Author-email: ddb4tr@virginia.edu
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text
+License-File: LICENSE.txt
+Requires-Dist: pandas>=1.0.0
+
+A simple package which allows us to create a Book Lover instance with limited functionality.
